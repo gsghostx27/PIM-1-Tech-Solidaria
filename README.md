@@ -12,4 +12,4 @@ E mais: enquanto se diverte e aprende, o aluno também tem acesso a conteúdos s
 
 A Techsolidária acredita que investir em conhecimento e segurança é o caminho para formar cidadãos críticos, conscientes e preparados para o futuro.
 
-Acesse o nosso projeto no arquivo "code.py"
+Acesse o nosso projeto no arquivo "code.py".
